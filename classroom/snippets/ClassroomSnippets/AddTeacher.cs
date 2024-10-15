@@ -29,8 +29,8 @@ namespace ClassroomSnippets
        /// <summary>
        /// Add teacher to the Course
        /// </summary>
-       /// <param name="courseId"></param>
-       /// <param name="teacherEmail"></param>
+       /// <param name="721434467823"></param>
+       /// <param name="classroom@iesvirgensoledad.es"></param>
        /// <returns></returns>
         public static Teacher ClassroomAddTeacher( string courseId,
                  string teacherEmail)
